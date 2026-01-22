@@ -1,0 +1,1 @@
+# fertilizer-and-crop-recommendation-using-AIML-technique-AIML-with-full-stack-
